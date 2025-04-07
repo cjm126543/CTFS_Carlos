@@ -1,0 +1,1 @@
+COMANDO A EJECUTAR \n CADENA=$(curl -s http://conclave.thehackerconclave.es:42106/index.php?showmeqr=showme -o file.jpg; zbarimg file.jpg | sed s/QR-Code://); curl http://conclave.thehackerconclave.es:42106/?password=$CADENA
