@@ -1,0 +1,1 @@
+La pagina recibe por GET una ruta. Podemos poner directamente /flag/flag.txt. Esto devuelve un PNG, se puede leer como texto bruto.

